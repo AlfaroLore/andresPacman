@@ -1,0 +1,10 @@
+D:\Documentos\andres aliendre\missPacman\missPacman\bin\Debug\missPacman.exe.config
+D:\Documentos\andres aliendre\missPacman\missPacman\bin\Debug\missPacman.exe
+D:\Documentos\andres aliendre\missPacman\missPacman\bin\Debug\missPacman.pdb
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.csprojAssemblyReference.cache
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.Form1.resources
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.Properties.Resources.resources
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.csproj.GenerateResource.cache
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.csproj.CoreCompileInputs.cache
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.exe
+D:\Documentos\andres aliendre\missPacman\missPacman\obj\Debug\missPacman.pdb
